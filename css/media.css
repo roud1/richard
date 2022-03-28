@@ -1,0 +1,104 @@
+@media only screen and (max-width: 768px) {
+    .indent{
+        display: none;
+    }
+    header nav, li a{
+        display: none;
+    }
+    .combined{
+        display: none;
+    }
+    .container{
+        flex-direction: column;
+    }
+    .box{
+        display: block;
+        text-align: center;
+        margin: auto;
+    }
+    .ml{
+        margin: auto;
+    }
+    .img-1{
+        margin: auto;
+    }
+    .orders{
+        margin: auto;
+    }
+    .ml1{
+        margin: auto;
+    }
+    .margin{
+        margin: auto;
+    }
+    .margin1{
+        margin: auto;
+    }
+    .img2{
+        margin:auto;
+    }
+    .text2-1{
+        margin: auto;
+    }
+    .flex{
+        display: block;
+        text-align: center;
+        margin: auto;
+        position: center;
+    }
+    .box-1{
+        display: block;
+        text-align: center;
+        margin: auto;
+        position: center;
+    }
+    .box-2{
+        display: block;
+        text-align: center;
+        margin: auto;
+        position: center;
+    }
+    .ml1-1{
+        margin: auto;
+    }
+    .text3-3{
+        margin: auto;
+        text-align: center;
+    }
+    .cheeps{
+        margin: auto;
+    }
+    .d-none{
+        display: none;
+    }
+    .pb{
+        margin-bottom: 0px;
+    }
+    .btn{
+        display: inline-block;
+        margin: auto;
+    }
+
+    .frame{
+        display: inline-block;
+        margin-top: 20px;
+    }
+
+    .form{
+        display: block;
+        margin: auto;
+    }
+    .get{
+        display: block;
+        text-align: center;
+        margin: auto;
+        position: center;
+    }
+    .text{
+        text-align: center;
+    }
+    .text-1{
+        text-align: center;
+    }
+}
+
