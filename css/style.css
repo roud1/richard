@@ -420,7 +420,7 @@ header nav, li a{
 
 .stripe{
     padding-right: 20px;
-    max-width: 30px ;
+    max-width: 30px;
 }
 
 .center{
@@ -433,7 +433,7 @@ header nav, li a{
     margin-top: 118px;
 }
 .background{
-    background: linear-gradient(287.15deg, #450E4B 0%, #3C0C41 24.48%, rgba(207, 0, 99, 0) 100%), #CF0063;
+    background-image: url('../Images/backgr.png');
     background-size: cover;
     padding-top: 165px;
     padding-bottom: 156px;
