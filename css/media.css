@@ -125,12 +125,20 @@
         display: block;
         font-size: 13px;
         width: 40%;
+        margin: auto;
     }
     .text4-2{
         margin: auto;
     }
     .stripe{
         margin-left: 19px;
+    }
+    .link{
+        margin: auto;
+        text-align: center;
+    }
+    .radius{
+        margin: auto;
     }
 }
 
